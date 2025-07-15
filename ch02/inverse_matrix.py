@@ -19,7 +19,7 @@ def inv_mat(matrix):
         return inverse_mat  #재사용 시 편리하도록 역행렬 반환
         
     
-
+'''
 matrix_A = np.array([
     [1,2,3],
     [4,5,6],
@@ -44,3 +44,4 @@ matrix_C = np.array([
 ])
 print(f"행렬 C: {matrix_C}")
 inv_mat(matrix_C)
+'''
